@@ -8,5 +8,6 @@ A few smaller things you'll find here as I explore the space:
  
 - **[mcp-tool-feedback](https://github.com/duncanapm/mcp-tool-feedback)** — a small TypeScript library that lets agents send structured feedback to the teams running MCP servers
 - **[cursor-auto-otel](https://github.com/duncanapm/cursor-auto-otel)** — a Cursor rule that makes every project observable by default
-Based in the UK. Always happy to chat about building for agents and what good developer tooling looks like in 2026.
+
+Based in the UK. Always happy to chat about building for agents, observability and what good developer tooling looks like in 2026.
  
